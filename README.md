@@ -3,6 +3,9 @@
 A repo for notes and throwaway code associated with the front-end half of Nashville Software School, based on [this repo](https://github.com/nashville-software-school/front-end-milestones/tree/master/3-modern-javascript-developer).
 
 1. [Challenges](challenges)
+1. [Exercises](exercises)
+1. [Resources](resources)
+1. [Livecodes](livecodes)
 1. [Notes](notes)
 
 ---
