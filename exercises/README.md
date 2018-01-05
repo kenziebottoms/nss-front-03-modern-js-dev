@@ -10,7 +10,8 @@
 
 
 ### [Promises](../resources/MJ_PROMISES.md)
-1. [Acme Explosive](https://github.com/kenziebottoms/nss-front-03-explosives) :arrow_upper_right:
+1. :white_check_mark: [Acme Explosive](https://github.com/kenziebottoms/nss-front-03-explosives) :arrow_upper_right:
+1. [Shake Your Fist at the Sky](https://github.com/kenziebottoms/nss-front-03-fist-shaker) :arrow_upper_right:
 1. [Blog 3](MJ_PROMISES_BLOG_03.md)
 
 
