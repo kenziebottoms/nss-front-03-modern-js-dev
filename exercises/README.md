@@ -10,7 +10,7 @@
 
 
 ### [Promises](../resources/MJ_PROMISES.md)
-1. [Acme Explosive](MJ_PROMISES_ACME_EXPLOSIVES.md)
+1. [Acme Explosive](https://github.com/kenziebottoms/nss-front-03-explosives) :arrow_upper_right:
 1. [Blog 3](MJ_PROMISES_BLOG_03.md)
 
 
