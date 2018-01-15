@@ -14,6 +14,10 @@
 - [`_.shuffle`](https://lodash.com/docs/4.17.4#shuffle)
 - [`_.sortBy`](https://lodash.com/docs/4.17.4#sortBy)
 
+### Objects
+
+- [`_.values`](https://lodash.com/docs/4.17.4#values)
+
 ### Strings
 
 - [`_.capitalize`](https://lodash.com/docs/4.17.4#capitalize)
