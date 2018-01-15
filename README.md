@@ -12,6 +12,12 @@ A repo for notes and throwaway code associated with the front-end half of Nashvi
 
 ## Resources
 
+### `npm` modules
+
+- Bootstrap: [v3](https://www.npmjs.com/package/bootstrap), [v4](https://www.npmjs.com/package/bootstrap-v4-dev)
+- [Lodash](https://www.npmjs.com/package/lodash)
+- [Moment](https://www.npmjs.com/package/moment)
+
 ### Modern JavaScript Developer Videos
 
 1. NSS Learning Team video for [using Promises to asynchronously load images](https://www.youtube.com/watch?v=ieS07COyZZU&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=7)
