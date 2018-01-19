@@ -22,6 +22,10 @@ A repo for notes and throwaway code associated with the front-end half of Nashvi
 
 - [Git tips and tricks](https://github.com/git-tips/tips)
 
+### UI
+
+- [Material Icons cheatsheet](https://gist.github.com/kenziebottoms/82a4f57053f5bc2843ade77d4cecffe1), Kenzie Bottoms
+
 ### Modern JavaScript Developer Videos
 
 1. NSS Learning Team video for [using Promises to asynchronously load images](https://www.youtube.com/watch?v=ieS07COyZZU&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=7)
