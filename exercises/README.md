@@ -26,4 +26,4 @@
 
 
 ## Group Project
-1. Theme Park
+1. :white_check_mark: [Theme Park](https://github.com/nss-day-cohort-23/group-project-themepark-tearm-park) :arrow_upper_right:
